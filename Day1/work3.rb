@@ -1,0 +1,1 @@
+puts "Ganesh " * 10
